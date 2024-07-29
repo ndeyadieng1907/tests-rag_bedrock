@@ -56,7 +56,7 @@ class TestRAGLlamaIndexMistral(LlamaIndexTestRAGHelper):
 
     @property
     def topic(self):
-        return "How to Build a Career in AI"
+        return "MORTALITE-Rapport-Provisoire-RGPH5_juillet2024"
 
     @property
     def embedding_model_id(self):
